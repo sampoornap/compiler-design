@@ -7,4 +7,4 @@ compiler design lab files (cs601)
 4. symbol table
 5. intermediate code generation
 6. code optimization
-7. 🫠
+7. finals - ?/60 🫠
