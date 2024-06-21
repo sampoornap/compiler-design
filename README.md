@@ -1,5 +1,5 @@
 # compiler-design
-compiler design lab files (cs601)
+compiler design lab files (cs691)
 
 1. lexical analyser (flex)
 2. parser (yacc/bison)
